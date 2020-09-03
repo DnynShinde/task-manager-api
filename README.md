@@ -5,7 +5,7 @@
 1. Express JS
 1. MonogoDB + Mongoose
 
-> Hosted at: [Task manager API](http://sps-task-manager.herokuapp.com/) This link won't open. (Use Postman to make requests.)
+> Hosted at: [Task manager API](https://dbs-task-manager.herokuapp.com/) This link won't open. (Use Postman to make requests.)
 
 ### Usage
 
